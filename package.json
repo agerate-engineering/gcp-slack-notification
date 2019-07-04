@@ -1,0 +1,10 @@
+{
+    "name": "@agerate/gcp-slack-notification",
+    "version": "1.0.0",
+    "description": "Slack integration for Google Cloud Build, using Google Cloud Functions",
+    "main": "index.js",
+    "dependencies": {
+        "@slack/client": "3.9.0",
+        "dateformat": "3.0.3"
+    }
+}
